@@ -1,0 +1,99 @@
+
+.maincont{
+    display: flex;
+    margin-left: 30px;
+}
+.header{
+    padding: 30px;
+    background: rgb(1, 41, 41);
+    color: white;
+}
+.header h1{
+    padding-left: 30px;
+}
+.maincont{
+    display: flex;
+    align-items: center;
+
+}
+.maincont i{
+    padding-right: 9px;
+}
+.maincont a{
+    text-decoration: none;
+    color: white;
+}
+.content2{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;  
+}
+.left{
+    width: 50%;
+    padding-right: 100px;
+}
+.right{
+   
+    display: flex;
+    flex-direction: column;
+    
+}
+.education p{
+    margin-top: 0;
+}
+.skils{
+    display: flex;
+    flex-wrap: wrap;
+}
+.h{
+    margin-left: 9px;
+    border: 1px solid rgb(29, 27, 27);
+    padding: 9px;
+    margin: 9px;
+    border-radius: 4px;
+    font-size: 18px;
+}
+.h :hover{
+    background-color: rgb(29, 27, 27);
+    color: white;
+}
+.languages div{
+    margin-bottom: 9px;
+}
+.border{
+    width: 80px;
+    height: 5px;
+    background-color: rgb(51, 51, 65);
+    margin-top: -16px;
+}
+.icons{
+    display: flex;
+    align-items: center;
+    
+}
+.icons i{
+    padding-right: 9px;
+}
+.header h1{
+    font-size: 50px;
+}
+.headercontent{
+    margin-top: 10px;
+}
+.Linkedin{
+    padding-bottom: 10px;
+}
+.image img{
+    width: 160px;
+    height: 180px;
+    
+}
+.header{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
+.image{
+    position: relative;
+    right: 140px;
+}
